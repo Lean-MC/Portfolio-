@@ -306,7 +306,6 @@ h1 {
   .presentacion img {
     width: 120px;
     height: 120px;
-    background-color: #1DA1F2;
   }
 
   /* Hacer las tarjetas más pequeñas y con menos espaciado */
@@ -334,14 +333,11 @@ h1 {
 
 @media (max-width: 480px) {
   
-body{
-  background-color: #1DA1F2 !important;
 
-}
 
   /* Ajustes adicionales para pantallas más pequeñas */
   .presentacion img {
-    width: 2000px;
+    width: 100px;
     height: 100px; /* Hacer las imágenes aún más pequeñas */
   }
 
